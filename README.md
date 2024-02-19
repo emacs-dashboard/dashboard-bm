@@ -4,6 +4,8 @@
 # dashboard-bm
 > Visual Bookmarks (bm.el) for Dashboard
 
+[![CI](https://github.com/emacs-dashboard/dashboard-bm/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-dashboard/dashboard-bm/actions/workflows/test.yml)
+
 ## 🔧 Usage
 
 ```elisp
