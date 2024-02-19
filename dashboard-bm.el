@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2024  Jeffrey Phillips
 
-;; Author: Jeffrey Phillips <jcs090218@gmail.com>
+;; Author: Jeffrey Phillips
 ;; Maintainer: Jeffrey Phillips
 ;;             Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; URL: https://github.com/emacs-dashboard/dashboard-bm
