@@ -1,6 +1,7 @@
 ;;; dashboard-bm.el --- Visual Bookmarks for Dashboard  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2024  Jeffrey Phillips
+;; Copyright (C) 2024-2025  emacs-dashboard maintainers
 
 ;; Author: Jeffrey Phillips
 ;; Maintainer: Jeffrey Phillips
