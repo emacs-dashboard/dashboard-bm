@@ -8,7 +8,7 @@
 ;;             Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; URL: https://github.com/emacs-dashboard/dashboard-bm
 ;; Version: 0.0.1
-;; Package-Requires: ((emacs "26.1") (dashboard "1.2.5") (bm "0"))
+;; Package-Requires: ((emacs "27.1") (dashboard "1.2.5") (bm "0"))
 ;; Keywords: tools
 
 ;; This file is not part of GNU Emacs.
