@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "dashboard-bm"
          "0.0.1"
          "Visual Bookmarks for Dashboard")
